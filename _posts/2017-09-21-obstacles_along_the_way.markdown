@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Obstacles along the way"
-date:   2017-09-21 02:33:10 +0000
+date:   2017-09-20 22:33:11 -0400
 ---
 
 
