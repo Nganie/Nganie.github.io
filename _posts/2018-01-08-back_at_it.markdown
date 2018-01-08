@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Back At It"
+date:       2018-01-08 16:11:21 +0000
+permalink:  back_at_it
+---
+
+
+I was so hung over a tic tac toe lab that I temporarily quit coding because I was so frustrated. I recently started back again and skipped that lab and moved on to the next topic and I am so glad that I did. When I was first introduced to web developing, it was through xanga and myspace. I was so interestedt in web designing and doing the front-end work. I loved HTML/CSS because I could modify my website to look however I wished. Now that I am on the topic and learning it formally through, I am so amazed at how much I am learning and easily grasping the concepts. This definitely reiganited my passion to be a full-stack developer. I am concerned for the future of the net and what that would mean for us developers. 
